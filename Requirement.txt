@@ -1,0 +1,7 @@
+//
+
+
+npm install // for installing all the dependencies
+npm start // for both frontend and backend
+
+npm run dev // to actually start the server, this creates the https link you can access the browser
